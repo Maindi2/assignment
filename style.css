@@ -1,4 +1,6 @@
-
+body {
+    background-color: #255ff4;
+}
 
 .cardContainer {
     width: fit-content;
